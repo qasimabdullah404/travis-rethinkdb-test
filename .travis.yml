@@ -6,5 +6,5 @@ node_js:
   - 10
 
 addons:
-  rethinkdb: '2.3.6'
+  rethinkdb: '2.3'
 script: true
