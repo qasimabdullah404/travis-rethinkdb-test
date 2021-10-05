@@ -1,0 +1,10 @@
+os: linux
+dist: focal
+language: node_js
+node_js:
+  - 12
+  - 10
+
+addons:
+  rethinkdb: '2.3.6'
+script: true
