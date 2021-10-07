@@ -1,5 +1,9 @@
 os: linux
-dist: xenial
+dist:
+  - trusty
+  - xenial
+  - bionic
+  - focal
 language: node_js
 node_js:
   - 12
